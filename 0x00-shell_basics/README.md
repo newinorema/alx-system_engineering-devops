@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files using the long format
+echo Display current directory contents, including hidden files using the long format
