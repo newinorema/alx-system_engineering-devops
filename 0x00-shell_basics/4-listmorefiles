@@ -1,2 +1,2 @@
+./4-listmorefiles ls -l
 #!/bin/bash
-. ls -l
