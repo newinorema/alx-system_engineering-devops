@@ -1,1 +1,3 @@
-that write-up on too
+Betty in my first directory
+
+
