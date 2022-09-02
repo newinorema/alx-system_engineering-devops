@@ -1,1 +1,1 @@
-script that changes the owner and the group owner
+script that creates a directory called my_dir with permissions 751 in the working directory
