@@ -1,1 +1,1 @@
-Create a magic file 
+Create a magic file
